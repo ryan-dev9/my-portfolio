@@ -89,7 +89,7 @@ export default function Home() {
                     />
                   </div>
                   <div>
-                    <h3 className="font-semibold">Hi, I'm Ryan Developer</h3>
+                    <h3 className="font-semibold">Hi, I am Ryan Developer</h3>
                     <p className="text-sm text-gray-300">Full-stack Web Developer • UI/UX enthusiast</p>
                   </div>
                 </div>
@@ -239,7 +239,7 @@ export default function Home() {
         <div className="rounded-2xl bg-white/3 backdrop-blur-2xl border border-white/6 p-8 flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <h3 className="text-xl font-bold">Want to work together?</h3>
-            <p className="text-gray-300">I'm available for freelance and full-time opportunities. Let's build something great.</p>
+            <p className="text-gray-300">I am available for freelance and full-time opportunities. Let's build something great.</p>
           </div>
           <div className="flex gap-3">
             <a className="px-6 py-3 rounded-full bg-gradient-to-r from-blue-600 to-purple-600" href="#">Say Hello</a>
